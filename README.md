@@ -32,7 +32,7 @@
 
 ## [Обработка данных. Исследование надежности заемщиков](https://github.com/onixlas/DS_portfolio/blob/main/ML_p2_data_preprocessing/data_preprocessing.ipynb)
 
-![](https://github.com/onixlas/DS_portfolio/blob/main/images/custumer-ages-hist.png 'Гистограмма возрастов клиентов')
+![](/images/custumer-ages-hist.png 'Гистограмма возрастов клиентов')
 
 ### Задача
 
