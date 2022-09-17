@@ -2,6 +2,8 @@
 
 ## [Исследование музыкальных предпочтений жителей Москвы и Санкт-Петербурга](https://github.com/onixlas/DS_portfolio/blob/main/ML_p1_yandex_music/yandex_music.ipynb)
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Robbie_Williams%2C_Roundhouse%2C_London_%28Apple_Music_Festival%29_%2829825055062%29.jpg/320px-Robbie_Williams%2C_Roundhouse%2C_London_%28Apple_Music_Festival%29_%2829825055062%29.jpg 'Robbie Williams, Roundhouse, London (Apple Music Festival)')
+
 ### Задача
 Нам доступен файл с данными о пользователях сервиса Яндекс.Музыка из Москвы и Санкт-Петербурга. Необходимо провести базовое сравнение муызкальных предпочтений пользователей из двух столиц.
 
@@ -29,6 +31,8 @@
 3. во вкусах пользователей Москвы и Петербурга больше общего чем различий. Вопреки ожиданиям, предпочтения жанров в Петербурге напоминают московские. Третья гипотеза не подтвердилась. Если различия в предпочтениях и существуют, на основной массе пользователей они незаметны.
 
 ## [Обработка данных. Исследование надежности заемщиков](https://github.com/onixlas/DS_portfolio/blob/main/ML_p2_data_preprocessing/data_preprocessing.ipynb)
+
+![](https://github.com/onixlas/DS_portfolio/blob/main/images/custumer-ages-hist.png 'Гистограмма возрастов клиентов')
 
 ### Задача
 
