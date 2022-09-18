@@ -1,3 +1,5 @@
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Artificial_Neural_Network_with_Chip.png/640px-Artificial_Neural_Network_with_Chip.png 'mikemacmarketing, Liam Huang')
+
 # Портфолио Data Science проектов
 
  | Проект | Задачи проекта | Ключевые слова |
