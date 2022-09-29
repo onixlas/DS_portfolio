@@ -1,6 +1,9 @@
 title: Михаил Васильев
+description: [Портфолио Data Science проектов]
 author: Михаил Васильев
-theme: jekyll-theme-slate
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme 
 social-network-links:
   telegram: LaHundo
   hackerrank: gnu_xinm
