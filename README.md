@@ -1,6 +1,13 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Artificial_Neural_Network_with_Chip.png/640px-Artificial_Neural_Network_with_Chip.png 'mikemacmarketing, Liam Huang')
 
-# Портфолио Data Science проектов
+## Портфолио ML-проектов
+
+ | Проект | Задачи проекта |
+| :-----------| :----------- | 
+| [1. Классификаиция клиентов телеком компании](https://github.com/onixlas/DS_portfolio/tree/main/ML_p6_telecom) | Оператор мобильной связи выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям один из новых тарифов. |
+
+
+## Портфолио DA-проектов
 
  | Проект | Задачи проекта |
 | :-----------| :----------- | 
