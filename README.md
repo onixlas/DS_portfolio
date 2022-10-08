@@ -1,8 +1,8 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Artificial_Neural_Network_with_Chip.png/640px-Artificial_Neural_Network_with_Chip.png 'mikemacmarketing, Liam Huang')
 
 # Содержание
-1. [Обо мне](#<Обо мне>)
-2. [Проекты Яндекс-Практикума](#<Проекты Яндекс-Практикума>)
+1. [Обо мне](<#Обо мне>)
+2. [Проекты Яндекс-Практикума](<#Проекты Яндекс-Практикума>)
 3. [Хакатоны](#Хакатоны)
 4. [Сертификаты](#Сертификаты)
 
