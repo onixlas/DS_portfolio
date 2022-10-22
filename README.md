@@ -14,6 +14,11 @@
 * Почта: [gnu.xinm@gmail.com](mailto:gnu.xinm@gmail.com)
 * Telegram: [@LaHundo](https://t.me/LaHundo)
 
+Используемые технологии: python, numpy, sklearn, seaborn, pytorch, keras, optuna, matplotlib, plotly, fast.ai, catboost, xgboost, lightgbm
+
+Профессиональный опыт:
+* 2012—… ОКБ Сухого, ведущий инженер 3 класса
+
 # Проекты Яндекс-Практикума
 
 ## Портфолио ML- и DS-проектов
