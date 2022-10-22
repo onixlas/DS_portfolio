@@ -16,7 +16,7 @@
 
 # Проекты Яндекс-Практикума
 
-## Портфолио ML-проектов
+## Портфолио ML- и DS-проектов
 
  | Проект | Задачи проекта |
 | :-----------| :----------- | 
@@ -42,7 +42,7 @@
 
 # Хакатоны
 
-* [«Росэлторг» — zakupkiHack 2.0](https://www.roseltorg.ru/zakupkihack)
+* [«Росэлторг» — zakupkiHack 2.0](https://github.com/onixlas/DS_portfolio/tree/main/certificates/zakupki-hack.pdf)
 
 # Сертификаты
 
