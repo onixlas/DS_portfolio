@@ -19,11 +19,28 @@
 Профессиональный опыт:
 * 2012—… ОКБ Сухого, ведущий инженер 3 класса
 
+# Хакатоны
+
+* [«Росэлторг» — zakupkiHack 2.0](https://github.com/onixlas/DS_portfolio/tree/main/certificates/zakupki-hack.pdf)
+
+# Сертификаты
+
+- [Введение в искусственный интеллект и нейросети для авиационных приложений](https://github.com/onixlas/DS_portfolio/tree/main/certificates/sert-ai.pdf)
+- [Программа обучения «Резерв-3»](https://github.com/onixlas/DS_portfolio/tree/main/certificates/rezerv-3.pdf)
+- [Поколение Python. Курс для продвинутых](https://stepik.org/cert/1460043)
+- [Основы статистики](https://stepik.org/cert/1535940)
+- [Введение в Data Science и машинное обучение](https://stepik.org/cert/1479747)
+- [Data Science с Глебом Михайловым](https://stepik.org/cert/1673640)
+- [Intro to Machine Learning](https://www.kaggle.com/learn/certification/salutonkielvifartas/intro-to-machine-learning)
+- [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/salutonkielvifartas/intermediate-machine-learning)
+- [Data Visualization](https://www.kaggle.com/learn/certification/salutonkielvifartas/data-visualization)
+- [Feature Engineering](https://www.kaggle.com/learn/certification/salutonkielvifartas/feature-engineering)
+
 # Pet-проекты
 
  | Проект | Задачи проекта |
 | :-----------| :----------- | 
-| [1. Определение возраста по фотографиям (Pytorch Lightning)](https://github.com/onixlas/DS_portfolio/tree/main/DL_p1_age/age_inference_pytorch_lightning.ipynb) | Задача: построить модель, которая по фотографии человека могла бы предсказывать его возраст. Для обучения будем использовать набор данных [APPA-REAL](https://chalearnlap.cvc.uab.es/dataset/26/description/). Для решения задачи используется Pytorch Lightning. При обучении модели применяется transfer learning с заморозкой слоёв. |
+| [1. Определение возраста по фотографиям (Pytorch Lightning)](https://github.com/onixlas/DS_portfolio/tree/main/DL_p1_age/age_inference_pytorch_lightning.ipynb) | Задача: построить модель, которая по фотографии человека могла бы предсказывать его возраст. Для обучения будем использовать набор данных [APPA-REAL](https://chalearnlap.cvc.uab.es/dataset/26/description/). В рамках проекта используется Pytorch Lightning, демонстрируется применение техники transfer learning с заморозкой слоёв. |
 
 # Проекты Яндекс-Практикума
 
@@ -51,20 +68,4 @@
 | [2. Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/onixlas/DS_portfolio/tree/main/ML_p2_data_preprocessing/data_preprocessing.ipynb) | На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок |
 | [1. Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/onixlas/DS_portfolio/tree/main/ML_p1_yandex_music/yandex_music.ipynb) | На реальных данных Яндекс.Музыки c помощью библиотеки Pandas и её возможностей проверить данные и сравнить поведение и предпочтения пользователей двух столиц — Москвы и Санкт-Петербурга |
 
-# Хакатоны
-
-* [«Росэлторг» — zakupkiHack 2.0](https://github.com/onixlas/DS_portfolio/tree/main/certificates/zakupki-hack.pdf)
-
-# Сертификаты
-
-- [Введение в искусственный интеллект и нейросети для авиационных приложений](https://github.com/onixlas/DS_portfolio/tree/main/certificates/sert-ai.pdf)
-- [Программа обучения «Резерв-3»](https://github.com/onixlas/DS_portfolio/tree/main/certificates/rezerv-3.pdf)
-- [Поколение Python. Курс для продвинутых](https://stepik.org/cert/1460043)
-- [Основы статистики](https://stepik.org/cert/1535940)
-- [Введение в Data Science и машинное обучение](https://stepik.org/cert/1479747)
-- [Data Science с Глебом Михайловым](https://stepik.org/cert/1673640)
-- [Intro to Machine Learning](https://www.kaggle.com/learn/certification/salutonkielvifartas/intro-to-machine-learning)
-- [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/salutonkielvifartas/intermediate-machine-learning)
-- [Data Visualization](https://www.kaggle.com/learn/certification/salutonkielvifartas/data-visualization)
-- [Feature Engineering](https://www.kaggle.com/learn/certification/salutonkielvifartas/feature-engineering)
 
