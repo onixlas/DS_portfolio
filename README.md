@@ -31,6 +31,7 @@
 - [Основы статистики](https://stepik.org/cert/1535940)
 - [Введение в Data Science и машинное обучение](https://stepik.org/cert/1479747)
 - [Data Science с Глебом Михайловым](https://stepik.org/cert/1673640)
+- [SQL для Анализа Данных с Глебом Михайловым](https://stepik.org/cert/1753578)
 - [Intro to Machine Learning](https://www.kaggle.com/learn/certification/salutonkielvifartas/intro-to-machine-learning)
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/salutonkielvifartas/intermediate-machine-learning)
 - [Data Visualization](https://www.kaggle.com/learn/certification/salutonkielvifartas/data-visualization)
