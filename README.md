@@ -25,6 +25,7 @@
 
 # Сертификаты
 
+- [Yandex - Специалист по Data Science](https://github.com/onixlas/DS_portfolio/tree/main/certificates/yandex-ru.pdf) ([en](https://github.com/onixlas/DS_portfolio/tree/main/certificates/yandex-en.pdf))
 - [Введение в искусственный интеллект и нейросети для авиационных приложений](https://github.com/onixlas/DS_portfolio/tree/main/certificates/sert-ai.pdf)
 - [Программа обучения «Резерв-3»](https://github.com/onixlas/DS_portfolio/tree/main/certificates/rezerv-3.pdf)
 - [Поколение Python. Курс для продвинутых](https://stepik.org/cert/1460043)
