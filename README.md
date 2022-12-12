@@ -17,7 +17,8 @@
 Используемые технологии: python, numpy, sklearn, seaborn, pytorch, keras, optuna, matplotlib, plotly, fast.ai, catboost, xgboost, lightgbm, SQL, GNU/Linux
 
 Профессиональный опыт:
-* 2012—… ОКБ Сухого, ведущий инженер 3 класса
+* 2012—2022 ОКБ Сухого, ведущий инженер 3 класса
+* 2022—… ЦЭБ ГА, инженер-программист (Data Scientist)
 
 # Хакатоны
 
