@@ -6,7 +6,9 @@
 
 Мне нравится работать с данными, экспериментировать, пробовать различные подходы в обучении ML-моделей, строить графики. Хочу сделать мир лучше за счёт искусственного интеллекта.
 
-Основной опыт у меня в обучении «классического» ML, но также работал с некоторыми DL-моделями, обучал YOLOv7 и экспериментировал с трансформерами. Сейчас прохожу курс [Deep Learning School](https://stepik.org/org/dlschool).
+Закончил Яндекс Практикум, делаю итоговый проект Deep learning school МФТИ.
+
+Основной опыт в обучении моделей "классического" ML, но также много работал с DL-моделями для computer vision.
 
 Я въедливый, умею замечать небольшие логические ошибки, обожаю интеллектуальные игры (квизы и т.д.), с удовольствием изучаю иностранные языки. Редактор Википедии.
 
@@ -14,7 +16,7 @@
 * Почта: [gnu.xinm@gmail.com](mailto:gnu.xinm@gmail.com)
 * Telegram: [@LaHundo](https://t.me/LaHundo)
 
-Используемые технологии: python, numpy, sklearn, seaborn, pytorch, keras, optuna, matplotlib, plotly, fast.ai, catboost, xgboost, lightgbm, SQL, GNU/Linux
+Используемые технологии: python, numpy, sklearn, seaborn, pytorch, keras, optuna, matplotlib, plotly, fast.ai, catboost, xgboost, lightgbm, SQL, GNU/Linux, pytorch lightning
 
 Профессиональный опыт:
 * 2012—2022 ОКБ Сухого, ведущий инженер 3 класса
@@ -23,6 +25,10 @@
 # Хакатоны
 
 * [«Росэлторг» — zakupkiHack 2.0](https://github.com/onixlas/DS_portfolio/tree/main/certificates/zakupki-hack.pdf)
+
+# Kaggle
+
+* [ML for Big Derby (коллективный проект)](https://www.kaggle.com/code/leowhynot/ml-for-big-derby)
 
 # Сертификаты
 
@@ -38,6 +44,12 @@
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/salutonkielvifartas/intermediate-machine-learning)
 - [Data Visualization](https://www.kaggle.com/learn/certification/salutonkielvifartas/data-visualization)
 - [Feature Engineering](https://www.kaggle.com/learn/certification/salutonkielvifartas/feature-engineering)
+
+# Проекты Школы глубокого обучения МФТИ
+
+ | Проект | Задачи проекта |
+| :-----------| :----------- | 
+| [1. Классификация изображений ](https://github.com/onixlas/DS_portfolio/tree/main/DLS_p1_simpsons/DLS_p1_simpsons.ipynb) | Сегодня нам предстоить помочь телекомпании *FOX* в обработке их контента. Как известно, сериал «Симпсоны» идет на телеэкранах более 25 лет, и за это время скопилось очень много видеоматериала. Персоонажи менялись вместе с изменяющимися графическими технологиями, и Гомер Симпсон-2023 не очень похож на Гомера Симпсона-1989. В этом задании нам необходимо классифицировать персонажей, проживающих в Спрингфилде. |
 
 # Pet-проекты
 
