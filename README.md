@@ -6,9 +6,9 @@
 
 Мне нравится работать с данными, экспериментировать, пробовать различные подходы в обучении ML-моделей, строить графики. Хочу сделать мир лучше за счёт искусственного интеллекта.
 
-Закончил Яндекс Практикум, делаю итоговый проект Deep learning school МФТИ.
+Закончил Яндекс Практикум и Deep learning school ФПМИ МФТИ.
 
-Основной опыт в обучении моделей "классического" ML, но также много работал с DL-моделями для computer vision.
+Много работал с классическим ML, обучал нейросетевые модели для решения задач CV и NLP. Основное направление работы — решение задач anomaly detection в различных контекстах.
 
 Я въедливый, умею замечать небольшие логические ошибки, обожаю интеллектуальные игры (квизы и т.д.), с удовольствием изучаю иностранные языки. Редактор Википедии.
 
@@ -20,7 +20,8 @@
 
 Профессиональный опыт:
 * 2012—2022 ОКБ Сухого, ведущий инженер 3 класса
-* 2022—… ЦЭБ ГА, инженер-программист (Data Scientist)
+* 2022—2023 ЦЭБ ГА, инженер-программист (Data Scientist)
+* 2023—н.в. Маквес, специалист по машинному обучению 2 категории
 
 # Хакатоны
 
@@ -44,6 +45,7 @@
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/salutonkielvifartas/intermediate-machine-learning)
 - [Data Visualization](https://www.kaggle.com/learn/certification/salutonkielvifartas/data-visualization)
 - [Feature Engineering](https://www.kaggle.com/learn/certification/salutonkielvifartas/feature-engineering)
+- [Добрый, добрый Python ООП](https://stepik.org/cert/2071046)
 
 # Проекты Школы глубокого обучения МФТИ
 
