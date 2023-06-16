@@ -49,6 +49,14 @@
 
 # Проекты Школы глубокого обучения МФТИ
 
+## NLP и обработка аудио
+
+ | Проект | Задачи проекта |
+| :-----------| :----------- | 
+| [5. Классификация текстов ](https://github.com/onixlas/DS_portfolio/blob/main/DLS_p5_text_classification/dls_p5_text_classification.ipynb) | На этот раз нам предстоит решить задачу классификации текстов. Мы будем использовать набор данных [`ag_news`](https://paperswithcode.com/dataset/ag-news). Это датасет для классификации новостей на 4 темы: *World, Sports, Business, Sci/Tech.* Посмотрим, как с такой задачей справятся рекуррентные нейросети. |
+
+## Computer Vision
+
  | Проект | Задачи проекта |
 | :-----------| :----------- | 
 | [4. GAN ](https://github.com/onixlas/DS_portfolio/blob/main/DLS_p4_gan/dls_p4_gan.ipynb) | Мы обучим нейросеть генерировать лица людей и посмотрим на то, как можно оценивать качество генерации. В качестве обучающей выборки возьмём датасет [Flickr-Faces](https://github.com/NVlabs/ffhq-dataset). |
