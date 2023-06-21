@@ -53,6 +53,7 @@
 
  | Проект | Задачи проекта |
 | :-----------| :----------- | 
+| [6. Языковое моделирование ](https://github.com/onixlas/DS_portfolio/blob/main/DLS_p6_language_modeling/dls_p6_language_modeling.ipynb) | В данном проекте мы будем заниматься языковым моделированием. Обучим несколько нейросетевых моделей предсказывать слова на основе предыдущего текста. Такие модели можно использовать и для генерации новых текстов, что мы также продемонстрируем. |
 | [5. Классификация текстов ](https://github.com/onixlas/DS_portfolio/blob/main/DLS_p5_text_classification/dls_p5_text_classification.ipynb) | На этот раз нам предстоит решить задачу классификации текстов. Мы будем использовать набор данных [`ag_news`](https://paperswithcode.com/dataset/ag-news). Это датасет для классификации новостей на 4 темы: *World, Sports, Business, Sci/Tech.* Посмотрим, как с такой задачей справятся рекуррентные нейросети. |
 
 ## Computer Vision
