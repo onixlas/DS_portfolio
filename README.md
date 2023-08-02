@@ -31,8 +31,9 @@
 
 * [ML for Big Derby (коллективный проект)](https://www.kaggle.com/code/leowhynot/ml-for-big-derby)
 
-# Сертификаты
+# Дипломы и сертификаты
 
+- [ФПМИ МФТИ - Диплом 1-ой степени](https://github.com/onixlas/DS_portfolio/tree/main/certificates/diploma_rus.pdf) ([en](https://github.com/onixlas/DS_portfolio/tree/main/certificates/diploma_eng.pdf))
 - [Yandex - Специалист по Data Science](https://github.com/onixlas/DS_portfolio/tree/main/certificates/yandex-ru.pdf) ([en](https://github.com/onixlas/DS_portfolio/tree/main/certificates/yandex-en.pdf))
 - [Введение в искусственный интеллект и нейросети для авиационных приложений](https://github.com/onixlas/DS_portfolio/tree/main/certificates/sert-ai.pdf)
 - [Программа обучения «Резерв-3»](https://github.com/onixlas/DS_portfolio/tree/main/certificates/rezerv-3.pdf)
@@ -57,6 +58,14 @@
 | [5. Классификация текстов ](https://github.com/onixlas/DS_portfolio/blob/main/DLS_p5_text_classification/dls_p5_text_classification.ipynb) | На этот раз нам предстоит решить задачу классификации текстов. Мы будем использовать набор данных [`ag_news`](https://paperswithcode.com/dataset/ag-news). Это датасет для классификации новостей на 4 темы: *World, Sports, Business, Sci/Tech.* Посмотрим, как с такой задачей справятся рекуррентные нейросети. |
 
 ## Computer Vision
+
+### Дипломный проект
+
+ | Проект | Задачи проекта |
+| :-----------| :----------- | 
+| [Распознавание лиц](https://github.com/onixlas/DS_portfolio/tree/main/DLS_cv_diploma_project/DLS_cv_diploma_project.ipynb) | В этом проекте мы будем решать задачу распознавания лиц. Мы обучим нейросеть и поиграем с различными функциями потерь и метриками. Обучение будем производить на наборе данных [CelebA dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html).  |
+
+### Учебные проекты
 
  | Проект | Задачи проекта |
 | :-----------| :----------- | 
