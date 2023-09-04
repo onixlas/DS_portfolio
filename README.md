@@ -19,8 +19,7 @@
 Используемые технологии: python, numpy, sklearn, seaborn, pytorch, keras, optuna, matplotlib, plotly, fast.ai, catboost, xgboost, lightgbm, SQL, GNU/Linux, pytorch lightning
 
 Профессиональный опыт:
-* 2012—2022 ОКБ Сухого, ведущий инженер 3 класса
-* 2022—2023 ЦЭБ ГА, инженер-программист (Data Scientist)
+* 2012—2023 ОКБ Сухого, ведущий инженер 3 класса
 * 2023—н.в. Маквес, специалист по машинному обучению 2 категории
 
 # Хакатоны
