@@ -19,12 +19,12 @@
 Используемые технологии: python, numpy, sklearn, seaborn, pytorch, keras, optuna, matplotlib, plotly, fast.ai, catboost, xgboost, lightgbm, SQL, GNU/Linux, pytorch lightning
 
 Профессиональный опыт:
-* 2012—2022 ОКБ Сухого, ведущий инженер 3 класса
-* 2022—2023 ЦЭБ ГА, инженер-программист (Data Scientist)
-* 2023—н.в. Маквес, специалист по машинному обучению 2 категории
+* 2012—2023 ОКБ Сухого, ведущий инженер 3 класса
+* 2023—н.в. Маквес, старший по машинному обучению
 
 # Хакатоны
 
+* [«Росэлторг» — RLT.Hack](https://github.com/onixlas/DS_portfolio/tree/main/certificates/RLT-hack.pdf)
 * [«Росэлторг» — zakupkiHack 2.0](https://github.com/onixlas/DS_portfolio/tree/main/certificates/zakupki-hack.pdf)
 
 # Kaggle
