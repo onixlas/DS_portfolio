@@ -16,11 +16,11 @@
 * Почта: [gnu.xinm@gmail.com](mailto:gnu.xinm@gmail.com)
 * Telegram: [@LaHundo](https://t.me/LaHundo)
 
-Используемые технологии: python, numpy, sklearn, seaborn, pytorch, keras, optuna, matplotlib, plotly, fast.ai, catboost, xgboost, lightgbm, SQL, GNU/Linux, pytorch lightning
+Используемые технологии: python, numpy, sklearn, seaborn, pytorch, optuna, matplotlib, plotly, catboost, xgboost, lightgbm, SQL, GNU/Linux, pandas, huggingface
 
 Профессиональный опыт:
 * 2012—2023 ОКБ Сухого, ведущий инженер 3 класса
-* 2023—н.в. Маквес, старший по машинному обучению
+* 2023—н.в. Маквес, старший специалист по машинному обучению
 
 # Хакатоны
 
