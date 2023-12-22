@@ -2,25 +2,25 @@
 
 # Обо мне
 
-Привет. Меня зовут Михаил Васильев. Я — Data Scientist. Здесь вы можете ознакомится с некоторыми моими проектами.
+Привет. Меня зовут Михаил Васильев. Я — Data Scientist. Здесь вы можете ознакомится с некоторыми моими учебными проектами.
 
-Мне нравится работать с данными, экспериментировать, пробовать различные подходы в обучении ML-моделей, строить графики. Хочу сделать мир лучше за счёт искусственного интеллекта.
+Большой опыт применения моделей глубокого обучения для решения задач CV и NLP. Также обучал классические ML-модели для задач anomaly detection в различных контекстах.
 
 Закончил Яндекс Практикум и Deep learning school ФПМИ МФТИ.
 
-Много работал с классическим ML, обучал нейросетевые модели для решения задач CV и NLP. Основное направление работы — решение задач anomaly detection в различных контекстах.
+Мне нравится работать с данными, экспериментировать, пробовать различные подходы в обучении ML-моделей, строить графики.
 
-Я въедливый, умею замечать небольшие логические ошибки, обожаю интеллектуальные игры (квизы и т.д.), с удовольствием изучаю иностранные языки. Редактор Википедии.
+Въедливый, умею замечать небольшие логические ошибки, обожаю интеллектуальные игры (квизы и т.д.), с удовольствием изучаю иностранные языки.
 
 Контакты:
 * Почта: [gnu.xinm@gmail.com](mailto:gnu.xinm@gmail.com)
 * Telegram: [@LaHundo](https://t.me/LaHundo)
 
-Используемые технологии: python, numpy, sklearn, seaborn, pytorch, optuna, matplotlib, plotly, catboost, xgboost, lightgbm, SQL, GNU/Linux, pandas, huggingface
+Используемые технологии: python, numpy, sklearn, seaborn, pytorch, optuna, matplotlib, plotly, catboost, xgboost, lightgbm, SQL, GNU/Linux, pandas, polars, huggingface, onnx, fastapi, flask
 
 Профессиональный опыт:
-* 2012—2023 ОКБ Сухого, ведущий инженер 3 класса
 * 2023—н.в. Маквес, старший специалист по машинному обучению
+* 2012—2023 ОКБ Сухого, ведущий инженер 3 класса
 
 # Хакатоны
 
@@ -47,6 +47,9 @@
 - [Data Visualization](https://www.kaggle.com/learn/certification/salutonkielvifartas/data-visualization)
 - [Feature Engineering](https://www.kaggle.com/learn/certification/salutonkielvifartas/feature-engineering)
 - [Добрый, добрый Python ООП](https://stepik.org/cert/2071046)
+- [НИУ ВШЭ - MLOps Bootcamp](https://github.com/onixlas/DS_portfolio/tree/main/certificates/hse_mlops.png)
+- [Young && Yandex - Тренировки по ML](https://github.com/onixlas/DS_portfolio/tree/main/certificates/yandex_ML.pdf)
+
 
 # Проекты Школы глубокого обучения МФТИ
 
