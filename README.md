@@ -16,14 +16,23 @@
 * Почта: [gnu.xinm@gmail.com](mailto:gnu.xinm@gmail.com)
 * Telegram: [@LaHundo](https://t.me/LaHundo)
 
-Используемые технологии: python, numpy, sklearn, seaborn, pytorch, optuna, matplotlib, plotly, catboost, xgboost, lightgbm, SQL, GNU/Linux, pandas, polars, huggingface, onnx, fastapi, flask
+Используемые технологии: python, numpy, sklearn, seaborn, pytorch, optuna, matplotlib, plotly, catboost, xgboost, lightgbm, SQL, GNU/Linux, pandas, polars, huggingface, onnx, fastapi, flask, transformer
 
 Профессиональный опыт:
 * 2023—н.в. Маквес, старший специалист по машинному обучению
 * 2012—2023 ОКБ Сухого, ведущий инженер 3 класса
 
+Проект: создание комплексного решения для обеспечения безопасности в корпоративной сети на основе неструктурированных данных
+
+Задачи:
+* создан ансамбль алгоритмов для поиска аномалий на табличных данных, в том числе на временных рядах
+* реализован нейросетевой модуль для поиска нарушений закона о персональных данных, количество детектируемых классов увеличено с 14 до 31, accuracy top 1 увеличена до 98.9
+* подготовлен модуль для анализа содержимого отсканированных документов: поиск текста, таблиц, печатей, подписей и корпоративных бланков, количество классов увеличено до 19, mAP@.5 улучшен с .89 до .94
+* реализован поиск чувствительных данных в текстовых файлах
+
 # Хакатоны
 
+* [VK x HSE Data Hack (1 место)](https://github.com/onixlas/DS_portfolio/tree/main/certificates/vk_hse_hack.pdf)
 * [«Росэлторг» — RLT.Hack](https://github.com/onixlas/DS_portfolio/tree/main/certificates/RLT-hack.pdf)
 * [«Росэлторг» — zakupkiHack 2.0](https://github.com/onixlas/DS_portfolio/tree/main/certificates/zakupki-hack.pdf)
 
