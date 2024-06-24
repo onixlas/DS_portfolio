@@ -30,6 +30,10 @@
 * подготовлен модуль для анализа содержимого отсканированных документов: поиск текста, таблиц, печатей, подписей и корпоративных бланков, количество классов увеличено до 19, mAP@.5 улучшен с .89 до .94
 * реализован поиск чувствительных данных в текстовых файлах
 
+# Выступления
+
+* [Moscow Python Meetup 91 (2024)](https://github.com/onixlas/DS_portfolio/tree/main/presentations/moscow_python_meetup_91/python_dcap.pdf)
+
 # Хакатоны
 
 * [VK x HSE Data Hack (1 место)](https://github.com/onixlas/DS_portfolio/tree/main/certificates/vk_hse_hack.pdf)
