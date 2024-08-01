@@ -32,9 +32,7 @@
 * собраны и размечены 8 датасетов для задач классификации и object detection
 
 # Выступления
-
-[![Moscow Python Meetup 91 (2024)](http://img.youtube.com/vi/VMDWjJoT8yE/0.jpg)](https://www.youtube.com/watch?v=VMDWjJoT8yE)
-[презентация](https://github.com/onixlas/DS_portfolio/tree/main/presentations/moscow_python_meetup_91/python_dcap.pdf)
+* Moscow Python Meetup 91 (2024). Опыт обучения и применения нейросетей в качестве модуля российской DCAP-системы [(видео)](https://www.youtube.com/watch?v=VMDWjJoT8yE) [(презентация)](https://github.com/onixlas/DS_portfolio/tree/main/presentations/moscow_python_meetup_91/python_dcap.pdf)
 
 # Хакатоны
 
