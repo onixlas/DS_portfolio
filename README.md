@@ -35,6 +35,10 @@
 
 * [Moscow Python Meetup 91 (2024)](presentations/moscow_python_meetup_91)
 
+# Подкасты со мной
+
+* Deep Learning Stories: [видео](https://youtu.be/zoVm2C_hkss?si=KgxT0jduIzm4kzz-)
+
 # Хакатоны
 
 * [VK x HSE Data Hack (1 место)](https://github.com/onixlas/DS_portfolio/tree/main/certificates/vk_hse_hack.pdf)
