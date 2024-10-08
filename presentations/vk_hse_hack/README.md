@@ -15,4 +15,4 @@
 * обучение модели-классификатора
 * создание REST API
 
-[(презентация)](https://github.com/onixlas/DS_portfolio/blob/main/presentations/vk_hse_hack/news_classification.pdf)
+[(презентация)](https://github.com/onixlas/DS_portfolio/blob/main/presentations/vk_hse_hack/news_classification.pdf) [(диплом победителя)](https://github.com/onixlas/DS_portfolio/blob/main/certificates/vk_hse_hack.pdf)
