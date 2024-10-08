@@ -15,4 +15,4 @@
 * обучение модели-классификатора
 * создание REST API
 
-[(презентация)]("presentations/vk_hse_hack/Классификация новостных текстов с присвоением тегов.pdf")
+[(презентация)](https://github.com/onixlas/DS_portfolio/blob/main/presentations/vk_hse_hack/news_classification.pdf)
