@@ -14,5 +14,7 @@
 * эксперименты с zero-shot classification моделями
 * обучение модели-классификатора
 * создание REST API
+* координация работы команды
+* презентация результатов
 
 [(презентация)](https://github.com/onixlas/DS_portfolio/blob/main/presentations/vk_hse_hack/news_classification.pdf) [(диплом победителя)](https://github.com/onixlas/DS_portfolio/blob/main/certificates/vk_hse_hack.pdf)

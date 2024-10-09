@@ -55,7 +55,8 @@
 
 # Хакатоны
 
-* [VK x HSE Data Hack (1 место)](https://github.com/onixlas/DS_portfolio/tree/main/certificates/vk_hse_hack.pdf)
+* [Цифровой прорыв x RuTube](presentations/rutube_hack)
+* [VK x HSE Data Hack (1 место)](presentations/vk_hse_hack)
 * [«Росэлторг» — RLT.Hack](https://github.com/onixlas/DS_portfolio/tree/main/certificates/RLT-hack.pdf)
 * [«Росэлторг» — zakupkiHack 2.0](https://github.com/onixlas/DS_portfolio/tree/main/certificates/zakupki-hack.pdf)
 
