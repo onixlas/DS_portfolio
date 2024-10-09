@@ -17,4 +17,4 @@
 * координация работы команды
 * презентация результатов
 
-[(презентация)](https://github.com/onixlas/DS_portfolio/blob/main/presentations/vk_hse_hack/news_classification.pdf) [(диплом победителя)](https://github.com/onixlas/DS_portfolio/blob/main/certificates/vk_hse_hack.pdf)
+[(презентация)](https://github.com/onixlas/DS_portfolio/blob/main/presentations/vk_hse_hack/news_classification.pdf) [(диплом победителя)](https://github.com/onixlas/DS_portfolio/blob/main/certificates/vk_hse_hack.pdf) [(репозиторий)](https://github.com/snakerzr/vk_llm_hackathon)

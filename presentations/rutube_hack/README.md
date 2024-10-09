@@ -15,4 +15,4 @@
 * создание REST API
 * презентация результатов
 
-[(презентация)](https://github.com/onixlas/DS_portfolio/blob/main/presentations/rutube_hack/RuTube_Support_AI.pdf)
+[(презентация)](https://github.com/onixlas/DS_portfolio/blob/main/presentations/rutube_hack/RuTube_Support_AI.pdf) [(репозиторий)](https://github.com/snakerzr/rutube_hackathon)
