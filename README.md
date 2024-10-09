@@ -45,7 +45,7 @@
 
 | Подкаст | Тема |
 | :-----------| :----------- | 
-| [Deep Learning Stories](https://podcasts.apple.com/us/podcast/deep-learning-stories/id1585678829) | [ Как войти в айти и создать коммьюнити](https://www.youtube.com/watch?v=zoVm2C_hkss) |
+| [Deep Learning Stories](https://podcasts.apple.com/us/podcast/deep-learning-stories/id1585678829) | [ Как войти в айти и создать коммьюнити](https://www.youtube.com/watch?v=zoVm2C_hkss) [(VK-видео)](https://vk.com/video/@dlschool_mipt/uploaded?z=video-155161349_456239191%2Fclub155161349) [(Apple Podcasts)](https://podcasts.apple.com/ru/podcast/%D0%BA%D0%B0%D0%BA-%D0%B2%D0%BE%D0%B9%D1%82%D0%B8-%D0%B2-it-%D0%B8-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C-%D0%BA%D0%BE%D0%BC%D0%BC%D1%8C%D1%8E%D0%BD%D0%B8%D1%82%D0%B8-%D1%81-%D1%81-%D0%BC%D0%B8%D1%85%D0%B0%D0%B8%D0%BB%D0%BE%D0%BC-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%B5%D0%B2%D1%8B%D0%BC/id1585678829?i=1000672383083) |
 
 # Pet-проекты
 
