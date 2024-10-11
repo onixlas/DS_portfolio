@@ -68,7 +68,8 @@
 
 - [ФПМИ МФТИ - Диплом 1-ой степени](https://github.com/onixlas/DS_portfolio/tree/main/certificates/diploma_rus.pdf) ([en](https://github.com/onixlas/DS_portfolio/tree/main/certificates/diploma_eng.pdf))
 - [Yandex - Специалист по Data Science](https://github.com/onixlas/DS_portfolio/tree/main/certificates/yandex-ru.pdf) ([en](https://github.com/onixlas/DS_portfolio/tree/main/certificates/yandex-en.pdf))
-- [Введение в искусственный интеллект и нейросети для авиационных приложений](https://github.com/onixlas/DS_portfolio/tree/main/certificates/sert-ai.pdf)
+- [Повышение квалификации: Введение в искусственный интеллект и нейросети для авиационных приложений](https://github.com/onixlas/DS_portfolio/tree/main/certificates/sert-ai.pdf)
+- [Повышение квалификации: Анализ данных на языке SQL](https://github.com/onixlas/DS_portfolio/tree/main/certificates/certificate_SQL.png)
 - [Программа обучения «Резерв-3»](https://github.com/onixlas/DS_portfolio/tree/main/certificates/rezerv-3.pdf)
 - [Поколение Python. Курс для продвинутых](https://stepik.org/cert/1460043)
 - [Поколение Python. Курс для профессионалов](https://stepik.org/cert/2511973)
