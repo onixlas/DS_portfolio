@@ -1,6 +1,7 @@
 title: <a href="https://onixlas.github.io/DS_portfolio/">Михаил Васильев</a> 
 description: [Портфолио Data Science проектов]
 author: Михаил Васильев
+lang: ru-RU
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme
