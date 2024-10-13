@@ -6,22 +6,26 @@
 
 ## Команда
 
-![Михаил Васильев](images/mvasiljev.jpg 'Михаил Васильев')
+![Михаил Васильев](../../images/mvasiljev.jpg 'Михаил Васильев')
+
 * старший специалист по машинному обучению, [Маквес](https://makves.ru/)
 * Telegram: [@LaHundo](https://t.me/LaHundo)
 * тим-лид и технический эксперт
 
-![Ольга Иванова](images/oivanova.jpg 'Ольга Иванова')
+![Ольга Иванова](../../images/oivanova.jpg 'Ольга Иванова')
+
 * преподаватель, МГУ
 * Telegram: [@oakarabut](https://t.me/oakarabut)
 * разметка данных, аугментации
 
-![Юлия Сухинина](images/jusuhinina.jpg 'Юлия Сухинина')
+![Юлия Сухинина](../../images/jusuhinina.jpg 'Юлия Сухинина')
+
 * начальник отдела, Гольфстрим
 * Telegram: [@Sukhinina_Julia](https://t.me/Sukhinina_Julia)
 * разметка данных, аугментации, обучение модели
 
-![Валерий Семёнов](images/vsemionov.jpg 'Валерий Семёнов')
+![Валерий Семёнов](../../images/vsemionov.jpg 'Валерий Семёнов')
+
 * преподаватель
 * Telegram: [@vivat7on](https://t.me/vivat7on)
 * бекенд, DevOps
