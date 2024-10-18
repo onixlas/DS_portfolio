@@ -41,6 +41,9 @@
 | :-----------| :----------- | 
 | [Moscow Python Meetup 91 (2024)](https://moscowpython.ru/meetup/91/) | [Опыт обучения и применения нейросетей в качестве модуля российской DCAP-системы](presentations/moscow_python_meetup_91) |
 
+# Статьи
+1. [Хабр: Опыт реализации нейросетевого модуля российской DCAP-системы](https://habr.com/ru/companies/garda/articles/851768/)
+
 # Подкасты со мной
 
 | Подкаст | Тема |
