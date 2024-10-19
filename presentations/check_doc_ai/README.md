@@ -50,4 +50,4 @@ yolo, albumentations, aiogram, cvat
 
 Решение развёрнуто и успешно используется АО «Гольфстрим охранные системы».
 
-[(репозиторий)](https://github.com/vivat-7on/TGaktBot)[(презентация)](./check_doc_ai.pdf)
+[(репозиторий)](https://github.com/vivat-7on/TGaktBot) [(презентация)](./check_doc_ai.pdf)
